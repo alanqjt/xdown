@@ -4,6 +4,8 @@
 官网:
 https://xdown.xyz
 
+<p><img src="https://xdown.xyz/img/00.png" alt="Figure 02"></p>
+
 <h2 id="功能特性">功能特性</h2>
 
 <ul>
@@ -25,3 +27,4 @@ https://xdown.xyz
 <li>支持tracker请求自定义agent</li>
 <li>支持torrent自定义用户标识,ID前缀</li>
 </ul>
+
