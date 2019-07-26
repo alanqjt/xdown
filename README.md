@@ -2,13 +2,14 @@
 免费的idm+torrent
 
 官网:
-https://xdown.xyz
+https://xdown.org
 
-<p><img src="https://xdown.xyz/img/00.png" alt="Figure 02"></p>
+<p><img src="https://xdown.org/img/00.png" alt="Figure 02"></p>
 
 <h2 id="功能特性">功能特性</h2>
 
 <ul>
+<li>支持youtube下载视频,音频</li>
 <li>支持torrent下载文件与做种</li>
 <li>支持断线重连</li>
 <li>支持标准FTP/HTTP/HTTPS/HTTP2协议下载</li>
